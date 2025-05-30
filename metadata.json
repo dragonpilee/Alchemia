@@ -1,0 +1,6 @@
+
+{
+  "name": "Alchemia",
+  "description": "An application leveraging Gemini AI to predict key molecular properties from SMILES strings, offering insights into the physicochemical characteristics of chemical compounds.",
+  "requestFramePermissions": []
+}
