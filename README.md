@@ -13,6 +13,10 @@
 
 ---
 
+![App Screenshot](./alchemia.png)
+
+---
+
 ## 🌟 Key Features
 
 - **Molecular Property Prediction:** Enter a SMILES string and get predictions for:
